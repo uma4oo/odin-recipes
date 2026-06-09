@@ -72,6 +72,14 @@ Through this project, I practiced:
 - Include nutritional information
 - Add cooking tips and preparation times
 
+## Repository
+
+[View Repository](https://github.com/uma4oo/odin-recipes)
+
+## Live Preview
+
+[View Live Site](https://uma4oo.github.io/odin-recipes/)
+
 ## Acknowledgements
 
 This project was completed as part of the Foundations curriculum from The Odin Project.
